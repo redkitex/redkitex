@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello!
-- 🔭 I’m currently working on some Android app development
-- 🌱 I’m trying to get better at competitive programming
-- 💬 I love making products that not only work well but look good
-- 🤓 I'm super passionate about learning and growing
+- I'm currently studying a B.Sc. Computer Science and AI
+- I’m trying to get better at competitive programming
+- I'm passionate about learning new things
+- I make products that not only work well, but look good
